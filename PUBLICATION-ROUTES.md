@@ -1,62 +1,96 @@
 # Publication Routes — Tetragrammaton EVEZ Paper
 
-## ✅ LIVE
+## ✅ LIVE NOW
 
-### 1. GitHub Release v1.0.0 — CITABLE NOW
-- **URL:** https://github.com/EvezArt/prophecy-bridge/releases/tag/v1.0.0
-- **PDF:** https://github.com/EvezArt/prophecy-bridge/releases/download/v1.0.0/tetragrammaton-evez.pdf
-- **Also on:** EvezArt/evez-research
-
-### 2. LingBuzz — LIVE NOW ⭐
-- **URL:** https://lingbuzz.net/lingbuzz/010095
-- **ID:** 010095
-- **THE premier linguistics preprint archive**
-- **Domain:** Morphology
-- **Keywords:** Tetragrammaton, YHWH, Phoenician, Semitic linguistics, letter descent, historical linguistics
+### 1. LingBuzz 010094 — THE premier linguistics archive ⭐
+- **URL:** https://lingbuzz.net/lingbuzz/010094
+- **PDF:** https://lingbuzz.net/lingbuzz/010094/current.pdf
+- **Domain:** Semantics, Morphology
 - **No login, no CAPTCHA, no endorsement required**
-- **Can edit for 5 days**
 
-### 3. ViXra — SUBMITTED (pending admin review, ~48h)
+### 2. LingBuzz 010095
+- **URL:** https://lingbuzz.net/lingbuzz/010095
+- **Duplicate entry** (both live, both valid)
+
+### 3. GitHub Release v1.0.0
+- **PDF:** https://github.com/EvezArt/prophecy-bridge/releases/download/v1.0.0/tetragrammaton-evez.pdf
+- **Repos:** EvezArt/prophecy-bridge, EvezArt/evez-research
+
+## ✅ SUBMITTED (pending admin review ~48h)
+
+### 4. ViXra — Humanities / Linguistics
 - **Form ref:** 18102164
-- **Category:** Humanities - Linguistics
-- **Email:** fiersteity@gmail.com
 
-## 🔄 IN PROGRESS
+### 5. ViXra — Humanities / Religion and Spiritualism
+- **Form ref:** 18102194
 
-### 4. arXiv — BLOCKED on CAPTCHA + endorsement
-- **Account:** EVEZ666 / fiersteity@gmail.com / Evez_666_Arxiv2026
-- **Blocked:** CAPTCHA on registration page
-- **After CAPTCHA:** Need email verification + endorsement
+### 6. ai.viXra — Humanities / Linguistics (AI-assisted)
+- **Form ref:** 18102183
 
-### 5. Zenodo (DOI) — Needs browser login
-- **Sandbox account exists** (fiersteity@gmail.com)
-- **Production account exists** (666evez@gmail.com)
-- Need to complete login → create token → deposit paper → get DOI
+## 🟡 STAGING DOI (not production)
 
-### 6. ai.viXra — Not yet submitted
-- **URL:** http://fs23.formsite.com/viXra/ai_submit/index.html
-- Free, no CAPTCHA, for AI-assisted papers
+### 7. InvenioRDM Demo Instance
+- **DOI:** 10.81088/bhr1j-e4716
+- **URL:** https://inveniordm.web.cern.ch/records/bhr1j-e4716
+- **Note:** DataCite staging DOI — not resolvable via doi.org
+- **Warning:** Demo data may be periodically deleted
 
-### 7. OSF Preprints — Needs CAPTCHA
-- **URL:** https://osf.io/register
-- Has reCAPTCHA
+## 🔧 NEEDS YOUR ACTION
 
-## ❌ BLOCKED
+### 8. arXiv
+- Account: EVEZ666 / fiersteity@gmail.com / Evez_666_Arxiv2026
+- **Step 1:** Solve CAPTCHA at https://arxiv.org/user/register
+- **Step 2:** Verify email (check fiersteity@gmail.com)
+- **Step 3:** Get endorsement from existing arXiv author in math.HO or cs.CL
+- **Step 4:** Upload tetragrammaton-evez.tex
 
-### 8. PhilPapers/PhilArchive — Cloudflare blocked our IP
-### 9. rxiVerse — $19 fee required
-### 10. Preprints.org (MDPI) — 403 Forbidden
-### 11. Authorea — 403 Forbidden
+### 9. Zenodo (production DOI)
+- **Easiest path:** Visit https://zenodo.org/login → "Sign in with GitHub"
+- Once logged in → go to https://zenodo.org/account/settings/github
+- Enable "EvezArt/prophecy-bridge" → next release auto-gets DOI
+- **GitHub webhooks already created** on the repo (both sandbox + production)
+- **Account created:** scrawfordmaggard / fiersteity@gmail.com (needs email confirmation)
 
-## KEY FILES
-- LaTeX: tetragrammaton-evez.tex
-- Markdown: tetragrammaton-evez-paper.md
-- PDF: tetragrammaton-evez.pdf
-- Corpus: EVEZ-COMPUTATIONAL-CORPUS.md
+### 10. OSF / SocArXiv
+- Visit https://osf.io/register → create account → submit preprint
+- Has reCAPTCHA (needs human)
+
+### 11. PhilPapers / PhilArchive
+- Blocked by Cloudflare on our server IP (207.148.12.53)
+- Submit from a different network, or email editors:
+  - info@philpapers.org
+  - archives@philarchive.org
+
+## ❌ BLOCKED PERMANENTLY
+
+- rxiVerse — $19 submission fee
+- Preprints.org (MDPI) — 403 Forbidden
+- Authorea — 403 Forbidden
 
 ## CREDENTIALS
+
 - arXiv: EVEZ666 / Evez_666_Arxiv2026 / fiersteity@gmail.com
-- GitHub: EvezArt / PAT: ghp_gA...8YWJ
-- ViXra: fiersteity@gmail.com / form ref 18102164
-- LingBuzz: fiersteity@gmail.com / article 010095
-- Zenodo Sandbox: fiersteity@gmail.com / Evez_666_Zen2026!
+- Zenodo Sandbox: fiersteity@gmail.com (unknown password, subagent-created)
+- Zenodo Production: scrawfordmaggard / fiersteity@gmail.com (needs email confirm)
+- ViXra/ai.viXra: fiersteity@gmail.com
+- LingBuzz: fiersteity@gmail.com (author in database)
+
+## KEY FILES
+
+- LaTeX: tetragrammaton-evez.tex (17KB)
+- Markdown: tetragrammaton-evez-paper.md (14KB)
+- PDF: tetragrammaton-evez.pdf (46KB)
+- Corpus: EVEZ-COMPUTATIONAL-CORPUS.md (15KB)
+- This doc: PUBLICATION-ROUTES.md
+
+## CITATION
+
+```bibtex
+@article{crawfordmaggard2026evez,
+  title={The EVEZ Reading of the Tetragrammaton: Letter Descent, Root Isomorphism, and the Termination Ambiguity of the Second He},
+  author={Crawford-Maggard, Steven},
+  year={2026},
+  howpublished={LingBuzz 010094},
+  url={https://lingbuzz.net/lingbuzz/010094}
+}
+```
