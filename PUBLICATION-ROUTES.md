@@ -1,73 +1,62 @@
 # Publication Routes — Tetragrammaton EVEZ Paper
 
-## ✅ COMPLETED
+## ✅ LIVE
 
 ### 1. GitHub Release v1.0.0 — CITABLE NOW
 - **URL:** https://github.com/EvezArt/prophecy-bridge/releases/tag/v1.0.0
 - **PDF:** https://github.com/EvezArt/prophecy-bridge/releases/download/v1.0.0/tetragrammaton-evez.pdf
-- **Repo:** EvezArt/prophecy-bridge (branch-protected, 5 files)
 - **Also on:** EvezArt/evez-research
-- **Status:** Live, publicly accessible, citable
 
-### 2. ViXra — SUBMITTED (pending admin review)
+### 2. LingBuzz — LIVE NOW ⭐
+- **URL:** https://lingbuzz.net/lingbuzz/010095
+- **ID:** 010095
+- **THE premier linguistics preprint archive**
+- **Domain:** Morphology
+- **Keywords:** Tetragrammaton, YHWH, Phoenician, Semitic linguistics, letter descent, historical linguistics
+- **No login, no CAPTCHA, no endorsement required**
+- **Can edit for 5 days**
+
+### 3. ViXra — SUBMITTED (pending admin review, ~48h)
 - **Form ref:** 18102164
 - **Category:** Humanities - Linguistics
-- **Status:** Submitted, should appear within 48 hours
 - **Email:** fiersteity@gmail.com
-- **URL (once live):** Will be vixra.org/archive/XXXX.XXXX
 
-### 3. PDF Generated
-- **Local:** /home/openclaw/.openclaw/workspace/tetragrammaton-evez.pdf (46KB)
-- **LaTeX source:** /home/openclaw/.openclaw/workspace/tetragrammaton-evez.tex (17KB)
-- **Markdown:** /home/openclaw/.openclaw/workspace/tetragrammaton-evez-paper.md (14KB)
-
-## 🔄 IN PROGRESS (needs user action)
+## 🔄 IN PROGRESS
 
 ### 4. arXiv — BLOCKED on CAPTCHA + endorsement
-- **Account created:** Username EVEZ666, email fiersteity@gmail.com
-- **Password:** Evez_666_Arxiv2026
-- **Blocked:** CAPTCHA on registration page (Step 1 of 2)
-- **After CAPTCHA:** Need email verification + endorsement from existing arXiv author
-- **Best categories:** math.HO (History & Overview), cs.CL (Computation & Language)
-- **Browser tab:** Still open on registration page
+- **Account:** EVEZ666 / fiersteity@gmail.com / Evez_666_Arxiv2026
+- **Blocked:** CAPTCHA on registration page
+- **After CAPTCHA:** Need email verification + endorsement
 
-### 5. Zenodo (DOI) — BLOCKED on login
-- **Route:** GitHub OAuth login → enable EvezArt/prophecy-bridge → auto-DOI on releases
-- **Blocked:** Need to log in to GitHub from Zenodo's OAuth page
-- **Need:** EvezArt GitHub password, or create Zenodo personal access token
-- **Once set up:** Every GitHub release automatically gets a DOI
+### 5. Zenodo (DOI) — Needs browser login
+- **Sandbox account exists** (fiersteity@gmail.com)
+- **Production account exists** (666evez@gmail.com)
+- Need to complete login → create token → deposit paper → get DOI
 
-## 📋 TODO (user action needed)
+### 6. ai.viXra — Not yet submitted
+- **URL:** http://fs23.formsite.com/viXra/ai_submit/index.html
+- Free, no CAPTCHA, for AI-assisted papers
 
-### 6. PhilArchive — Cloudflare blocked our IP
-- Can submit from a different network or via email
+### 7. OSF Preprints — Needs CAPTCHA
+- **URL:** https://osf.io/register
+- Has reCAPTCHA
 
-### 7. SSRN — Elsevier's preprint server
-- https://submit.ssrn.com — needs account creation
-- Category: Linguistics / Religion
+## ❌ BLOCKED
 
-### 8. Academia.edu / ResearchGate
-- Can upload PDFs directly after account creation
-
-### 9. Google Scholar / Semantic Scholar
-- Will auto-index once paper is on ViXra or GitHub
-
-## 🎯 PRIORITY ORDER
-1. ✅ ViXra (done, waiting for admin)
-2. 🔄 arXiv (solve CAPTCHA, then endorsement)
-3. 🔄 Zenodo (login → DOI)
-4. PhilArchive (different IP)
-5. SSRN (account creation)
+### 8. PhilPapers/PhilArchive — Cloudflare blocked our IP
+### 9. rxiVerse — $19 fee required
+### 10. Preprints.org (MDPI) — 403 Forbidden
+### 11. Authorea — 403 Forbidden
 
 ## KEY FILES
 - LaTeX: tetragrammaton-evez.tex
 - Markdown: tetragrammaton-evez-paper.md
 - PDF: tetragrammaton-evez.pdf
-- Computational Corpus: EVEZ-COMPUTATIONAL-CORPUS.md
-- Prophecy Bridge: PROPHECY-BRIDGE.md
-- Yeshua X Christos: YESHUA-X-CHRISTOS.md
+- Corpus: EVEZ-COMPUTATIONAL-CORPUS.md
 
 ## CREDENTIALS
 - arXiv: EVEZ666 / Evez_666_Arxiv2026 / fiersteity@gmail.com
 - GitHub: EvezArt / PAT: ghp_gA...8YWJ
-- ViXra: fiersteity@gmail.com
+- ViXra: fiersteity@gmail.com / form ref 18102164
+- LingBuzz: fiersteity@gmail.com / article 010095
+- Zenodo Sandbox: fiersteity@gmail.com / Evez_666_Zen2026!
